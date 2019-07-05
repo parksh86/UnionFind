@@ -1,2 +1,2 @@
 # Union-Find
-CTD
+Find Friend
